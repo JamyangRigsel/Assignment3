@@ -12,7 +12,7 @@ RAW_DATA_DIR = DATA_DIR / "raw"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 
 # ── Output paths (saved inside the cloned repo on Colab session storage)
-REPO_BASE = Path("/content/macro_project")
+REPO_BASE = Path("/content/Assignment3")
 OUTPUTS_DIR = REPO_BASE / "outputs"
 EDA_OUTPUT_DIR = OUTPUTS_DIR / "eda"
 MODEL_OUTPUT_DIR = OUTPUTS_DIR / "models"
