@@ -7,6 +7,7 @@ from pathlib import Path
 DRIVE_BASE = Path("/content/drive/MyDrive/macro_project")
 
 # ── Data paths
+DATA_DIR = DRIVE_BASE / "data"
 RAW_DATA_DIR = DATA_DIR / "raw"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 
